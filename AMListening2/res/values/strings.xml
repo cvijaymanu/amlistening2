@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AmListening2</string>
+    <string name="menu_settings">About AmListening2</string>
+    <!-- Welcome screen -->
+    <string name="whatsNewTitle">Welcome to AmListening2</string>
+    <string name="whatsNewText">AmListening2 tracks all the music you listen on your device.\n\n This app auto-picks a song you love the most and prompts you to share with your Facebook friends.
+         \n\nAuto pick happens once at the end of the day. Also, you can pick your song of the day, the week or the month manually from the app at anytime.
+         \n\nPlease rate this App along with your comments to improvise.</string>
+    <string name="ok">OK</string>
+    <string name="no_songs_current">Currently there is no song playing.</string>
+    <string name="no_songs_today">Oops!..You have no top songs for today.</string>
+    <string name="no_songs_week">Haven’t heard your fav tracks? Tune in to your music library to pick song of the week.</string>
+    <string name="no_songs_month">Nothing to pick..Put on your headphones and listen to Oldies or Trendsetters.</string>
+    <string name="title_activity_social_integration">AmListening2</string>
+    <string name="post_Wall_Success">Message posted on the wall.</string>
+    <string name="post_Wall_Error">No message posted on the wall.</string>
+    <string name="post_Confirmation_Message">Want to share this with your Facebook friends?</string>
+    <string name="yes_Button">YES</string>
+    <string name="no_Button">NO</string>
+    <!-- Facbook -->
+    <string name="app_id">182008371950901</string>
+    <!-- AmListening2 activity -->
+    <string name="Current_Playing_Song">Current Song</string>
+    <string name="Top_Song_Today_Button">Top Song Today</string>
+    <string name="Top_Song_Week_Button">Top Song Week </string>
+    <string name="Top_Song_Month_Button">Top Song Month</string>
+    <string name="prefs_about_title">About AmListening2</string>
+    <string name="title_activity_about">About AmListening2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Application details -->
+    <string name="app_version">Version 1.1</string>
+    <string name="app_feedback">Send your feedback to </string>
+    <string name="app_feedback_email"> AmListening2@gmail.com </string>
+    <string name="title_activity_no_songs">AmListening2</string>
+
+    <!-- App Sharing -->
+    <string name="app_share">Share App</string>
+</resources>
