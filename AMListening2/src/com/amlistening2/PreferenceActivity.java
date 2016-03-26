@@ -5,6 +5,10 @@ import java.util.List;
 import android.os.Bundle;
 import android.widget.Button;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 public class PreferenceActivity extends android.preference.PreferenceActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

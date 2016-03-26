@@ -1,12 +1,9 @@
-/**
- * 
- */
 package com.amlistening2.dao;
 
 import com.amlistening2.commons.TrackInfoTO;
 
 /**
- * @author vijju
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
  * 
  */
 public interface IMusicSocialDAO {

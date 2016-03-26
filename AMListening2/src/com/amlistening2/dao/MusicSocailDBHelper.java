@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.amlistening2.dao;
 
 import android.annotation.SuppressLint;
@@ -12,7 +9,7 @@ import android.util.Log;
 import com.amlistening2.commons.Logger;
 
 /**
- * @author vijju
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
  * 
  */
 public class MusicSocailDBHelper extends SQLiteOpenHelper {

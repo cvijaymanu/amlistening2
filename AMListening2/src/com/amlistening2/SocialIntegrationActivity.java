@@ -30,6 +30,10 @@ import com.facebook.android.Facebook;
 import com.facebook.android.Facebook.DialogListener;
 import com.facebook.android.FacebookError;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 public class SocialIntegrationActivity extends Activity {
 	private static final String FACEBOOK_APPID = "182008371950901";
 	private SharedPreferences mPrefs;

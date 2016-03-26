@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.amlistening2;
 
 import java.util.Calendar;
@@ -15,8 +12,9 @@ import com.amlistening2.commons.AmListen2Util;
 import com.amlistening2.commons.Logger;
 import com.amlistening2.service.Amlistening2Service;
 
+
 /**
- * @author vijju
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
  * 
  */
 public class TopSongBroadcastReceiver extends BroadcastReceiver {

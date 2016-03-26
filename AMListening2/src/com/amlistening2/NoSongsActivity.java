@@ -14,6 +14,10 @@ import android.widget.TextView;
 
 import com.amlistening2.commons.AmListen2Util;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 public class NoSongsActivity extends Activity {
 
 	String songType = null;

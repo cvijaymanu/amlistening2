@@ -1,14 +1,12 @@
-/**
- * 
- */
 package com.amlistening2.commons;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
+
 /**
- * @author vijju
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
  * 
  */
 public class AmListen2Util {

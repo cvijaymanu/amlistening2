@@ -12,6 +12,10 @@ import com.amlistening2.commons.TrackInfoTO;
 import com.amlistening2.dao.IMusicSocialDAO;
 import com.amlistening2.dao.MusicSocialDao;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 public class AmListening2BroadcastReceiver extends BroadcastReceiver {
 
 	public TrackInfoTO infoTO;

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.amlistening2;
 
 import android.app.IntentService;
@@ -9,7 +6,7 @@ import android.content.Intent;
 import com.amlistening2.commons.Logger;
 
 /**
- * @author vijju
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
  * 
  */
 public class AmListening2IntentService extends IntentService {

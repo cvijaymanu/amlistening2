@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.amlistening2.dao;
 
 import java.text.ParseException;
@@ -24,7 +21,7 @@ import com.amlistening2.commons.Logger;
 import com.amlistening2.commons.TrackInfoTO;
 
 /**
- * @author vijju
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
  * 
  */
 public class MusicSocialDao implements IMusicSocialDAO {

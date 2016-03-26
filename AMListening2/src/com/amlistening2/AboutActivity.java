@@ -8,6 +8,10 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 @SuppressLint("NewApi")
 public class AboutActivity extends Activity {
 

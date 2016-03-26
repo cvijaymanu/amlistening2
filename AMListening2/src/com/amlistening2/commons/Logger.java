@@ -5,6 +5,10 @@ import android.os.Build;
 import android.provider.Settings;
 import android.util.Log;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 public class Logger {
 	/**
 	 * Method to check if debug logging 

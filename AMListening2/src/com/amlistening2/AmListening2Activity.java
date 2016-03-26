@@ -21,13 +21,10 @@ import com.amlistening2.commons.Logger;
 import com.amlistening2.service.Amlistening2Service;
 import com.tapfortap.TapForTap;
 
+
 /**
- * @author vijju
- *
- */
-/**
- * @author vijju
- *
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
  */
 @SuppressLint("NewApi")
 public class AmListening2Activity extends Activity {

@@ -2,6 +2,10 @@ package com.amlistening2.dao;
 
 import android.provider.BaseColumns;
 
+/**
+ * @author Vijay Chiliveri (cvijaymanu@gmail.com)
+ * 
+ */
 public class ColumnReaderContract {
 
 	public abstract class ColumnEntry implements BaseColumns {
